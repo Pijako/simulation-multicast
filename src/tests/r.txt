@@ -1,0 +1,34 @@
+routeur R1
+routeur R2
+routeur R3
+routeur R4
+routeur R5
+routeur R6
+routeur R7
+station ulysse
+routeur R8
+station totoche
+station licorne
+station saigon
+station enseeiht
+station www
+station ubaye
+station merle
+lien ulysse R1
+lien totoche R1
+lien licorne R3
+lien saigon R3
+lien enseeiht R6
+lien www R6
+lien merle R7
+lien R7 ubaye
+lien R1 R2
+lien R1 R3
+lien R2 R5
+lien R3 R5
+lien R3 R6
+lien R4 R7
+lien R5 R7
+lien R5 R6
+lien R6 R8
+lien R7 R8

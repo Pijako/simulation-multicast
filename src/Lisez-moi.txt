@@ -1,0 +1,17 @@
+Groupe Projet : 1TR6
+
+Thibault PICHEL, Yassine KOSSIR
+
+=====[ Modifications à l'issue de la session 1 ]==============================================================
+
+Fonctionnel : Création de la classe AfficherReseau, qui permet d'afficher l'arbre et d'afficher le chemin
+	      Améliorations de certaines fonctions   
+
+Interface graphique : Amélioration de la classe VuePrincipale à qui il manquait les deux apnneaux latéraux
+		      Creation de la classe VueStation, qui était à peine commencée
+                      Création de la classe Onglet qui permet d'afficher les onglets pour recevoir les messages dans chaque VueStation
+		      Création de la classe Liste qui extends DefaultListModel car les ArrayList ne sont pas acceptées dans les JList
+
+
+	               
+

@@ -1,0 +1,17 @@
+routeur R1
+routeur R2
+routeur R3
+routeur R4
+routeur R5
+station ulysse
+station licorne
+station enseeiht
+station www
+lien ulysse R1
+lien licorne R2
+lien enseeiht R4
+lien www R5
+lien R1 R3
+lien R2 R3
+lien R3 R4
+lien R3 R5

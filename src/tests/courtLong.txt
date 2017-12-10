@@ -1,0 +1,11 @@
+routeur R1
+routeur R2
+routeur R3
+station ulysse
+station licorne
+lien ulysse R1
+lien ulysse R2
+lien R1 licorne
+lien R3 licorne 
+lien R1 R2
+
